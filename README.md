@@ -1,7 +1,7 @@
 # mike-snow
 mike snow's react componenet
 
-###install
+### install
 ```
 npm install mike-snow
 import Mike from 'mike-snow'

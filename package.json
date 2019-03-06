@@ -1,0 +1,19 @@
+{
+  "name": "mike-snow",
+  "version": "0.1.0",
+  "description": "mike snow's react componenet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsnow3/mike-snow.git"
+  },
+  "author": "Michael Snow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelsnow3/mike-snow/issues"
+  },
+  "homepage": "https://github.com/michaelsnow3/mike-snow#readme"
+}

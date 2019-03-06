@@ -1,5 +1,5 @@
 # mike-snow
-mike snow's react componenet
+mike snow's componenet
 
 ### install
 ```
